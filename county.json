@@ -1,0 +1,50 @@
+[
+    {
+        "_id":{
+            "$oid":"68242f75935277ac4f625a6d"
+        },
+        "name":"Veszprém vármegye",
+        "lakes":[
+            {
+                "$oid":"63d42f75935277ac4f625a6d"
+            },
+            {
+                "$oid":"63d42f75935277ac4f625a6e"
+            },
+            {
+                "$oid":"63d42f75935277ac4f625a6f"
+            },
+            {
+                "$oid":"5d725a4a7b292f5f8ceff789"
+            },
+            {
+                "$oid":"5d725cfec4ded7bcb480eaa5"
+            }
+
+        ]
+    },
+    {
+        "_id":{
+            "$oid":"68d42f75935277ac4f625a8b"
+        },
+        "name":"Nógrád vármegye",
+        "lakes":[
+            {
+                "$oid": "5d725cfec4ded7bcb480eaa6"
+            }
+        ]
+    },
+    {
+        "_id":{
+            "$oid":"63d24f79535276ac4f625ag6"
+        },
+        "name":"Baranya vármegye",
+        "lakes":[
+            {
+                "$oid":"5d7254a47b292f5f8ceff789"
+            }
+        ]
+    }
+
+
+]

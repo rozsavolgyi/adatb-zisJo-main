@@ -1,0 +1,37 @@
+[
+    {
+        "_id": {
+            "$oid": "65e42f75935277ac4f625a6d"
+        },
+        "name": "Feeder",
+        "description": "A feeder horgászat egy speciális módszer, amelyet elsősorban a pontyok horgászatára használnak. A feeder horgászat során a horgász a vízfenék közelében tartja az etetőanyagot, és a horoghoz kötött csalit. Az etetőanyagot egy speciális etetőkosárba helyezik, amelyet a horoghoz kötött zsinóron leengednek a vízfenék közelébe. Az etetőanyagot a vízfenék közelében tartják, hogy a halak a horoghoz kötött csalit is megtalálják. A feeder horgászat során a horgász a vízfenék közelében tartja az etetőanyagot, és a horoghoz kötött csalit. Az etetőanyagot egy speciális etetőkosárba helyezik, amelyet a horoghoz kötött zsinóron leengednek a vízfenék közelébe. Az etetőanyagot a vízfenék közelében tartják, hogy a halak a horoghoz kötött csalit is megtalálják."
+    },
+    {
+        "_id": {
+            "$oid": "65e42f75935277ac4f625a6e"
+        },
+        "name": "Pergetés",
+        "description": "A pergetés egy módszer, amelyet elsősorban ragadozó halak horgászatára használnak. A pergetés során a horgász egy speciális pergető botot és orsót használ, amelyek segítségével a horgász a víz felszínén tartja a csalit. A pergetés során a horgász a víz felszínén tartja a csalit, és a horgász a víz felszínén tartja a csalit. A pergetés során a horgász a víz felszínén tartja a csalit, és a horgász a víz felszínén tartja a csalit. A pergetés során a horgász a víz felszínén tartja a csalit, és a horgász a víz felszínén tartja a csalit."
+    },
+    {
+        "_id": {
+            "$oid": "65e42f75935277ac4f625a6f"
+        },
+        "name": "Úszós",
+        "description": "Az úszós horgászat egy módszer, amelyet elsősorban a halak horgászatára használnak. Az úszós horgászat során a horgász egy úszót használ, amelyet a horoghoz kötött zsinóron leenged a vízbe. Az úszós horgászat során a horgász egy úszót használ, amelyet a horoghoz kötött zsinóron leenged a vízbe. Az úszós horgászat során a horgász egy úszót használ, amelyet a horoghoz kötött zsinóron leenged a vízbe. Az úszós horgászat során a horgász egy úszót használ, amelyet a horoghoz kötött zsinóron leenged a vízbe."
+    },
+    {
+        "_id":{
+            "$oid":"65e42f75935277ac4f625a5f"
+        },
+        "name": "Behúzós",
+        "description": "A behúzós horgászmódszer egy technika, amelyet főként nagyobb távolságra történő horgászathoz használnak. A behúzós módszer során a horgász egy hosszú, erős botot és orsót használ, amelyek segítségével a horgász a csalit a vízbe dobja, majd visszahúzza, hogy felkeltse a halak figyelmét. A behúzós módszer során a horgász a víz felszínén vagy a víz alján tartja a csalit, és a horgász a víz felszínén vagy a víz alján tartja a csalit. A behúzós módszer során a horgász a víz felszínén vagy a víz alján tartja a csalit, és a horgász a víz felszínén vagy a víz alján tartja a csalit. A behúzós módszer során a horgász a víz felszínén vagy a víz alján tartja a csalit, és a horgász a víz felszínén vagy a víz alján tartja a csalit."
+    },
+    {
+        "_id":{
+            "$oid":"65e42f75935277ac4f625a4f"
+        },
+        "name":"Bojlis",
+        "description":"A bojlis módszer egy technika, amelyet elsősorban ponty horgászatára használnak. A bojlis módszer során a horgász speciális bojlis botot és orsót használ, amelyek segítségével a horgász a csalit a vízbe dobja, és a víz alján tartja. A bojlis módszer során a horgász a víz alján tartja a csalit, és a horgász a víz alján tartja a csalit. A bojlis módszer során a horgász a víz alján tartja a csalit, és a horgász a víz alján tartja a csalit. A bojlis módszer során a horgász a víz alján tartja a csalit, és a horgász a víz alján tartja a csalit. A bojlis módszer során a horgász a víz alján tartja a csalit, és a horgász a víz alján tartja a csalit."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "_id":{
+            "$oid":"65a42f75935277ac4f625a6d"
+        },
+        "name":"Józsi",
+        "email":"jozsi@gmail.com",
+        "password":"jozsi123"
+    },
+    {
+        "_id":{
+            "$oid":"65a42f75935277ac4f625a6e"
+        },
+        "name":"Pista",
+        "email":"pista@gmail.com",
+        "password":"pista123"
+    },
+    {
+        "_id":{
+            "$oid":"65a42f75935277ac4f625a6f"
+        },
+        "name":"Béla",
+        "email":"bela@gmail.com",
+        "password":"bela123"
+    }
+]

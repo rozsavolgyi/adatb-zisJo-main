@@ -1,0 +1,86 @@
+[
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d0"
+        },
+        "name": "Csuka",
+        "img":"https://csukaahorgon.lapunk.hu/kepek/kifut.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d1"
+        },
+        "name": "Balin",
+        "img":"https://m.blog.hu/mt/mttmuzeum/image/balin_1.jpeg"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d2"
+        },
+        "name": "Fogassüllő",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgREJhdI5uj0ot_G_Vl5tHGqE_7SFjmBr8ng&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d3"
+        },
+        "name": "Kősüllő",
+        "img":"https://blshe.hu/wp-content/uploads/kosullo.png"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d4"
+        },
+        "name": "Harcsa",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXLonQDnrQ9TWTRlCgBnAhEjw1CPNyKrg_g&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d5"
+        },
+        "name": "Tő ponty",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpmoWLQ3UsGz2lr_wwLU0G_W4PlP1BTHXBg&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d6"
+        },
+        "name": "Amur",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8DzsERRRhOlPtfJr773UGPjawhUpyOBH_w&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d7"
+        },
+        "name": "Kárász",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgHNHtdMAb_YWg1uAVhLN4dFlBcL8Cy8upg&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d8"
+        },
+        "name": "Koi ponty",
+        "img":"https://miskolczoo.hu/sites/default/files/kepek/vezerkep/cyprinus_carpio-2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "5d713995b721c3bb38c1f5d9"
+        },
+        "name": "Sügér",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZTfGRPgrcGW62YBjvV8ucOY-HL6MSMerrA&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d719395b721c3bb38c1f5d0"
+        },
+        "name": "Tükör ponty",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdI3LAVyYUzxBS_FBHsZxj-UFdLaWlDp2Wg&s"
+    },
+    {
+        "_id": {
+            "$oid": "5d791395b721c3bb38c1f5d0"
+        },
+        "name": "Keszeg",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-rfXvFsh2KDZmAfKBPEvUh5NILgSoKuwCw&s"
+    }
+]

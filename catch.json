@@ -1,0 +1,112 @@
+[
+    {
+        "_id": {
+            "$oid": "63d42f75935277ac4f625a72"
+        },
+        "fish":{
+            "$oid": "65b42f75935277ac4f625a6d"
+        },
+        "img": "https://www.termeszettar.hu/oktseg/kislexikon/halak/csuka/39-the-pike-4573363_1920(Pixabay-Krzysztof_NiewolnyCC0)-mod.jpg",
+        "weight": 3,
+        "length": 80,
+        "date": "2024-02-01T10:15:00Z",
+        "method": {
+            "$oid": "65e42f75935277ac4f625a6e"
+        },
+        "bait": "műcsali",
+        "lake": {
+            "$oid": "63d42f75935277ac4f625a6d"
+        },
+        "user": {
+            "$oid": "65a42f75935277ac4f625a6d"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63d42f75935277ac4f625a77"
+        },
+        "fish":{
+            "$oid": "65b42f75935277ac4f625a6e"
+        },
+        "img": "https://pecaverzum.hu/upload/articles/vass-endre-balin.jpg",
+        "weight": 0.7,
+        "length": 55,
+        "date": "2024-03-01T06:30:00Z",
+        "method":{
+            "$oid": "65e42f75935277ac4f625a6e"
+        },
+        "bait": "rapala wobler",
+        "lake": {
+            "$oid": "63d42f75935277ac4f625a6e"
+        },
+        "user": {
+            "$oid": "65a42f75935277ac4f625a6e"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63d42f75935277ac4f625a7c"
+        },
+        "fish":{
+            "$oid": "65b42f75935277ac4f625a6f"
+        },
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bersh_01.jpg/260px-Bersh_01.jpg",
+        "weight": 4.3,
+        "length": 52,
+        "date": "2024-04-01T06:45:00Z",
+        "method": {
+            "$oid": "65e42f75935277ac4f625a6f"
+        },
+        "bait": "csalihal",
+        "lake": {
+            "$oid": "63d42f75935277ac4f625a6f"
+        },
+        "user": {
+            "$oid": "65a42f75935277ac4f625a6f"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63d42f75926377ac4f625a7c"
+        },
+        "fish":{
+            "$oid": "65b42f75935277ac4f625a6z"
+        },
+        "img": "https://berek.hu/wp-content/uploads/2022/01/21-ponty.jpg",
+        "weight": 22,
+        "length":80,
+        "date": "2024-07-07T06:45:00Z",
+        "method": {
+            "$oid": "65e42f75935277ac4f625a4f"
+        },
+        "bait": "Bait Bait dupla 24mm Yoda oldódó",
+        "lake": {
+            "$oid": "63d24f59735772ac4f265ag6"
+        },
+        "user": {
+            "$oid": "65a42f75935277ac4f625a6f"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63d42f75935266ac4f625a7c"
+        },
+        "fish":{
+            "$oid": "65b42f75935277ac4f625a6l"
+        },
+        "img": "https://pecaverzum.hu/upload/articles/thumb_850x565_crop3_80/100-kilos-harcsa.jpg",
+        "weight": 99,
+        "length":224,
+        "date": "2024-07-07T06:45:00Z",
+        "method": {
+            "$oid": "65e42f75935277ac4f625a4f"
+        },
+        "bait": "máj",
+        "lake": {
+            "$oid": "63d24f59735772ac4f265ag6"
+        },
+        "user": {
+            "$oid": "65a42f75935277ac4f625a6e"
+        }
+    }
+]
