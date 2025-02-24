@@ -12,13 +12,31 @@
         ],
         "description": "A Szélmezői tőzegbánya tavak területe Mezőlak község közigazgatási határán, Pápa várostól kb. 20 km-re helyezkedik el. Megközelíthető a 8404.-es számú Pápa – Sárvár összekötő úton haladva, Pápától 5,5 km-re a Kemeneshőgyészi leágazónál jobbra fordulva, Békás községtől 3 km-t Kemeneshőgyész irányában haladva, egy nagy ívű balkanyarban jobbra, a tavakhoz vezető murvás útra kanyarodva. A Szélmezői tórendszer az 1980.-as években befejeződött tőzegbányászat következtében jött létre a Marcal folyó keleti medencéjében. Területe 106 hektár, melyből 62 hektár horgászható „élővíz”, 4 különálló tóra tagolódik, az I. sz. tó 3 hektár, a II. sz. tó 3,5 hektár, a III. sz. tó 38 hektár, a IV. sz. tó 17,5 hektár. Láp jellege miatt „ex lege”, országos jelentőségű, Natura 2000-es természetvédelmi terület. Az átlagos vízmélység az I.-II. sz. tavaknál 0,8 méter, a III.-IV. sz. tavaknál 1,4 méter, a legmélyebb részeken a meder 3 méter mély. Növényzete változatos, de a növényzettel borított terület nagy része nád, sás és gyékény. Ornitológiai szempontból egyedülálló, ritka, védett madárfajok is megtalálták itt életterüket. A halállomány az őshonos halfajok mellett kiegészül a telepített, úgynevezett népszerű halfajokkal. A halfauna ponty, csuka, sügér, napkárász, vörösszárnyú-, és bodorka keszeg, aranykárász, compó, harcsa, süllő, balin, busa, dévér-, és karika keszeg, amúr, ezüstkárász halfajokból tevődik össze. Az odafigyelésnek, a halvédelemnek, a jó halgazdálkodásnak köszönhetően a tavakban kapitális példányok is élnek. Eddigi rekordok: ponty: 26 kg, amúr: 28 kg, harcsa: 53 kg, busa: 43 kg, csuka: 11 kg, süllő: 7 kg, aranykárász: 2,2 kg, compó: 2,9 kg. A festői környezetben elterülő tőzegtavak biztosítják a szabadidő kultúrált, tartalmas eltöltését, a szórakozást egy igazi vadvízi környezetben.",
         "typical_fish": [
-            "ponty",
-            "amur",
-            "csuka",
-            "harcsa",
-            "keszeg",
-            "compó",
-            "süllő"
+            {
+                "fish": {
+                    "$oid": "5d719395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d5"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d791395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d4"
+                }
+            }
         ],
         "water_depth": "2.5",
         "steg_number": "50",
@@ -184,11 +202,31 @@
         ],
         "description": "Összesen 5 ha vízfelülettel és 4.5-6 m vízmélységgel, tagolt mederrel - több szigettel. Minden horgászállásnál törésekkel, púposakkal rendelkező nagyhalas tavunk igen izgalmassá teszi a horgászatot. A tó átalakításakor fő szempont volt a vad környezet lehetőség szerinti maximális megtartása; így a tó teljes egészében nádassal határolt maradt, csupán a stégek helye került beágyazásra a nádfalba. A parton található fák és bokrok is eredeti állapotukban megmaradtak, így igazi természeti környezetben, hűs fák árnyékában horgászhatnak a sporttársak. A terület gyönyörű, zavartalan környezetben található, melyről a terület körbekerítő kerítés is gondoskodik. A tó kristálytiszta vizű, amelyben dús nádassal és gazdag aljnövényzettel található. A tó horgász és nagyhal állománnyal rendelkezik; mely főként ponty, amúr és busa. 2019. őszén jelentős mennyiségű, szintén horgoszú 10-15-20 kg-os pontyok, 7-15-20 kg-os amúrok, illetve 8-15 kg-os tok került telepítésre. A nagyhalas telepítése idén tavasszal folytatódik. A tóba érkezik pár igazán nagyhal; 25+ ponty és amúr. A tavon, hosszú évek óta nincs hivatalos horgászat, szerencsére jó pár rejtettméhek sikerült elkerülni a halak áldozatos tevékenységét, így igazi rejtély, hogy melyik lesz az idei év legnagyobb hal tóban. A tavon 8 horgászállás került kialakításra a Vajda Lakótelep felőli oldalon, mely 3x4 m stéggel, illetve 2x3 m szigetelt faházzal rendelkezik. Állásonként 2-2 horgász tud kényelmesen és zavartalanul horgászni. A bejáratnál 2 db angol wc, zuhanyzó, illetve vizesblokk áll a vendégek rendelkezésére. A tavon horgászonként 2-2 bottal lehet horgászni, a részletes szabályzat itt megtalálható a Facebook oldalunkon. A szabályok megszegése esetén azonnali és végleges kizárás jár!",
         "typical_fish": [
-            "tokhal",
-            "ponty",
-            "harcsa",
-            "amur",
-            "koi ponty"
+            {
+                "fish": {
+                    "$oid": "5d719395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d5"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d791395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d4"
+                }
+            }
         ],
         "water_depth": "4.5",
         "steg_number": "8",
@@ -257,13 +295,31 @@
         ],
         "description": "Az egyesület vízterülete 4,5 hektáron terül el és 4 tóból áll. A vízmélység változatos, akárcsak a halfajok.0,5 méterestől a 5 méterig mindenféle vízoszlop megtalálható. A 4 tó mindegyike sajátságos tulajdonságokkal rendelkezik",
         "typical_fish": [
-            "ponty",
-            "keszeg",
-            "csuka",
-            "afrikai harcsa",
-            "amur",
-            "süllő",
-            "balin"
+            {
+                "fish": {
+                    "$oid": "5d719395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d5"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d791395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d4"
+                }
+            }
         ],
         "water_depth": "3",
         "steg_number": "40",
@@ -328,11 +384,31 @@
         ],
         "description": "A tó közvetlenül - Pápa felől Sárvár irányában - Borsosgyőr után jobbra a fő útvonal mellet található.A tó kb. 50 éves múltra tekint vissza, ebből 40 éven keresztül horgász egyesületi kezelésben volt. A tó mérete 1.3 hektár, mely 2.5 hektár területen fekszik. A tó vízmélysége rendkívül változatos: 0.8 métertől 6.5 méterig terjed, ezért bármely szerelékes horgász megtalálja a magának megfelelő horgász módszert.2005 óta magánkézbe került a tó, ettől kezdve indultak meg a fejlesztések, építések, parkgondozás, játszótér kialakítása, stégek, filagóriák építése és természetesen a nagy mennyiségű folyamatos telepítések. A tó fő halállománya a ponty melyből folyamatosan 100 mázsa fölötti mennyiséget biztosítunk. Található még csuka, süllő, szürkeharcsa, keszegfélék, amur, tokhal és szezonban afrikai harcsa is van. Ősszel jelentős mennyiségű, mintegy 25 mázsa nagytestű ponty kerül telepítésre, melynek méretei 5 kg-tól a 21,7 kg-ig terjednek. Természetesen a tó 50 éves múltjára visszatekintően kapitális pontyok, amurok találhatóak.",
         "typical_fish": [
-            "ponty",
-            "keszeg",
-            "csuka",
-            "afrikai harcsa",
-            "amur"
+            {
+                "fish": {
+                    "$oid": "5d719395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d5"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d791395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d4"
+                }
+            }
         ],
         "water_depth": "2.1",
         "steg_number": "20",
@@ -397,12 +473,31 @@
         ],
         "description": "A Palotási-tó jelenleg az ország egyik legnépszerűbb horgász tavai közé tartozik. Palotás és Kisbágyom községek között terül el. A víztározó az 1967-es évben jött létre, amikor a Buják-patak vizét egy völgyzárógáttal elrekesztették öntözési célból. Így a halak számára ideális nagyságú 72 hektár kiterjedésű (vízfelület 58,8 hektár ami vízállástól függ) 250 m átlag szélességű, 2,5 m átlag mélységű, 2 km hosszúságú tó alakult ki. A Palotási-tó Budapesttől mindössze 55 km-re található és az M3-as autópályán megközelíthető, aminek köszönhetőn nagyon népszerű.",
         "typical_fish": [
-            "ponty",
-            "balin",
-            "csuka",
-            "harcsa",
-            "amur",
-            "busa"
+            {
+                "fish": {
+                    "$oid": "5d719395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d5"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d791395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d4"
+                }
+            }
         ],
         "water_depth": "2,5",
         "steg_number": "20",
@@ -471,12 +566,31 @@
         ],
         "description": "A tározó 120 hektár horgászható szabad vízfelülettel rendelkezik. Átlagmélysége 2.5 méter, mederfenék akadó mentes, egyenletes iszapmentes felületet képez. A tó összes horgászhelye gépjárművel megközelíthető, de a földutakra való tekintettel, időjárásfüggő. Megközelíthetőség: Szigetvár után 11 km-re Barcs felé, a 6-os úton haladva, Görösgál után közvetlenül, jobbra kell fordulni. Innen mintegy 5 km-es betonozott úton – Merenye falun keresztül – érhető el az utolsó elágazás, ahol jobbra fordulva már láthatóvá válik a tó. A tó teljes területe Magánterületnek számít, bejárata sorompóval elkerített.",
         "typical_fish": [
-            "ponty",
-            "koi ponty",
-            "csuka",
-            "harcsa",
-            "amur",
-            "compó"
+            {
+                "fish": {
+                    "$oid": "5d719395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d5"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d791395b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d0"
+                }
+            },
+            {
+                "fish": {
+                    "$oid": "5d713995b721c3bb38c1f5d4"
+                }
+            }
         ],
         "water_depth": "2,5",
         "steg_number": "20",
